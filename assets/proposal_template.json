@@ -1,0 +1,20 @@
+{
+  "proposal_id": 1,
+  "direction_name": "Urban Noir Solitude",
+  "basics": {
+    "outline": "A cinematic journey through a rainy, neon-lit city at night. The protagonist walks alone, not in sadness but in supreme confidence.",
+    "shooting_method": "Slow tracking shots, shallow depth of field (bokeh city lights), smooth gimbal movements. Low key lighting with neon accents (cyan and magenta).",
+    "art_style_description": "Cinematic Realism, Wong Kar-wai inspired, moody, high contrast, wet pavement reflections, velvet textures."
+  },
+  "storyboard": [
+    {
+      "segment_id": 1,
+      "content_narrative": "[Intro - Verse 1] Establish the mood.",
+      "movielength": "00:00-00:10",
+      "prompts": {
+        "first_frame": "Cinematic shot, medium close-up, elegant woman sitting by a rain-streaked window...",
+        "last_frame": "Woman standing up, silhouette against the city window..."
+      }
+    }
+  ]
+}
